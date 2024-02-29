@@ -244,7 +244,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-[{file_name}](https://telegram.me/NobiDeveloper)
+[{file_caption}](https://telegram.me/NobiDeveloper)
 
 <b>•────•────────•────•
 📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.me/AllRequestGroups)
