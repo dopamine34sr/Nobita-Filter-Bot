@@ -15,7 +15,7 @@
       "index",
       "inline"
     ],
-    "website": "https://telegram.me/NobiDeveloper",
+    "website": "https://github.com/NobiDeveloper/Nobita-Filter-Bot",
     "repository": "https://github.com/NobiDeveloper/Nobita-Filter-Bot",
     "env": {
         "BOT_TOKEN": {

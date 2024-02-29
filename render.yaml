@@ -10,3 +10,5 @@
     branch: main # optional (defaults to master)
     numInstances: 1 # optional (defaults to 1)
     healthCheckPath: /
+
+#End of yaml
